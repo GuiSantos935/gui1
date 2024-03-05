@@ -5,7 +5,8 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Gui</Text>
-      <text>05/03/2024</text>
+      <Text>05/03/2024</Text>
+      <Text>clone</Text>
       <StatusBar style="auto" />
     </View>
   );
